@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8581467c11a5bf408bcef782281b1c5d",
+    "revision": "bd23515954162aa1e3136a778e198bfc",
     "url": "/Monster-Rolex/index.html"
   },
   {
-    "revision": "bd578a3f732b39e51ce4",
+    "revision": "685e165668309a6f5363",
     "url": "/Monster-Rolex/static/css/main.0446c410.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Monster-Rolex/static/js/2.4b7b5c74.chunk.js"
   },
   {
-    "revision": "bd578a3f732b39e51ce4",
-    "url": "/Monster-Rolex/static/js/main.c4404bd9.chunk.js"
+    "revision": "685e165668309a6f5363",
+    "url": "/Monster-Rolex/static/js/main.9224834c.chunk.js"
   },
   {
     "revision": "c673aa5f3c87a48c0714",
